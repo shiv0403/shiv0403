@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shiv0403&label=Profile%20views&color=0e75b6&style=flat" alt="shiv0403" /> </p>
 
-<p align="left"><img src="https://cdn.dribbble.com/users/1187836/screenshots/6539429/programer.gif" alt="shiv0403" style="height:300px;object-fit:cover"/></p>
+<p align="center"><img src="https://cdn.dribbble.com/users/1187836/screenshots/6539429/programer.gif" alt="shiv0403" style="height:500px;width:90%;object-fit:cover"/></p>
 
 <p align="left"> <a href="https://twitter.com/sgupta_2001" target="blank"><img src="https://img.shields.io/twitter/follow/sgupta_2001?logo=twitter&style=for-the-badge" alt="sgupta_2001" /></a> </p>
 
@@ -51,9 +51,7 @@
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
 
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shiv0403&show_icons=true&locale=en&layout=compact" alt="shiv0403" /></p>
 <br/>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=shiv0403&show_icons=true&locale=en" alt="shiv0403" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shiv0403&" alt="shiv0403" /></p>
-
