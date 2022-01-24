@@ -28,7 +28,7 @@
 <a href="https://twitter.com/sgupta_2001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sgupta_2001" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/shivansh-gupta-45b35019b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shivansh-gupta-45b35019b" height="30" width="40" /></a>
 <a href="https://instagram.com/__shivansh.gupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__shivansh.gupta" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/channel/uc6wb2wslnls-hj6_a0rhoda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uc6wb2wslnls-hj6_a0rhoda" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/uc6wb2wslnls-hj6_a0rhoda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uc6wb2wslnls-hj6_a0rhoda" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Things I code with</h3>
