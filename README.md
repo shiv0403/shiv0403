@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/sgupta_2001" target="blank"><img src="https://img.shields.io/twitter/follow/sgupta_2001?logo=twitter&style=for-the-badge" alt="sgupta_2001" /></a>  </p>
 
-<p align="center"><img src="https://cdn.dribbble.com/users/1187836/screenshots/6539429/programer.gif" alt="shiv0403" style="width:40%;object-fit:cover;float:right"/></p>
+<p align="center"><img src="https://cdn.dribbble.com/users/1187836/screenshots/6539429/programer.gif" alt="shiv0403" style="width:20%;object-fit:cover;float:right"/></p>
 
 - 🔭 I’m currently working on **DoubTell**
 
