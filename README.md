@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shiv0403&label=Profile%20views&color=0e75b6&style=flat" alt="shiv0403" /> </p>
 
-<p align="center"><img src="https://i.pinimg.com/originals/ce/69/4f/ce694f560636dffcf42ecf40d4f2f962.gif" alt="shiv0403" style="height:200px"/></p>
+<p align="center"><img src="https://i.pinimg.com/originals/ce/69/4f/ce694f560636dffcf42ecf40d4f2f962.gif" alt="shiv0403" style="height:90%;object-fit:cover"/></p>
 
 <p align="left"> <a href="https://twitter.com/sgupta_2001" target="blank"><img src="https://img.shields.io/twitter/follow/sgupta_2001?logo=twitter&style=for-the-badge" alt="sgupta_2001" /></a> </p>
 
